@@ -1146,3 +1146,5 @@ if __name__ == "__main__":
     while True:
         schedule.run_pending()
         time.sleep(1) # Sleep for 1 second to avoid busy-waiting
+
+        #Let me know if you want a more powerful or custom-built solution!
